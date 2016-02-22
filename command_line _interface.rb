@@ -1,15 +1,3 @@
-=begin
-**
-*commandline.rb
-*by
-*Okokhere Oseahumhen Vera
-*
-**
-=end
-$LOAD_PATH << '.'
-require 'project.rb'
-include NotesProject
-
 puts "                    Welcome to Notes Taking App"
 puts "                ************************************"
 puts "                ************************************"

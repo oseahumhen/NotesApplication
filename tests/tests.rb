@@ -1,15 +1,3 @@
-=begin
-**
-*testcase.rb
-*by
-*Okokhere Oseahumhen Vera
-*
-**
-=end
-
-#$LOAD_PATH << '.'						#uncomment lines 9,10 and 11 to run test with RSpec
-#require 'project.rb'
-#include NotesProject
 RSpec.describe "NotesApplication Tests" do
 	it "verifies that new object belongs to the class" do
 		my_notes = NotesApplication.new("ose")

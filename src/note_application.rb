@@ -1,14 +1,3 @@
-=begin
-**
-*project.rb
-*by
-*Okokhere Oseahumhen Vera
-*
-**
-=end
-
-#$LOAD_PATH << '.'							#uncomment lines 9 and 10 to run test with RSpec
-#require 'testcases'
 module NotesProject
 	class NotesApplication
 
