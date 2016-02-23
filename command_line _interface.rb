@@ -63,7 +63,7 @@ else
 			puts "editing successful"
 
 		when 0
-			puts "Goodbye #{name} I hope to see you soon!"
+			puts "Goodbye #{name}. I hope to see you soon!"
 			break
 		end
 end	
