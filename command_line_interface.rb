@@ -1,3 +1,6 @@
+$LOAD_PATH << '.'
+require 'src/note_application.rb'
+include NotesProject
 puts "                    Welcome to Notes Taking App"
 puts "                ************************************"
 puts "                ************************************"
